@@ -1,0 +1,3 @@
+[submodule "JitterPhysicsPCL"]
+	path = JitterPhysicsPCL
+	url = https://github.com/MonoBookOrg/JitterPhysicsPCL.git
